@@ -31,5 +31,5 @@ These are remote images aligned in a table
 
 into a Reveal.js slide deck 
 
-with the push of a button.
+with one command.
 
