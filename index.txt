@@ -4,15 +4,26 @@
 :revealjs_slideNumber: true
 
 
-== Local Images
+== Two Images 
+
+These images are big, so they wrap.
+
+image:bucket_and_pail.png[] image:cord_and_cable.png[]
+
+
+== Images Side by Side
+
+Same local images scaled down to demo sitting side by side
 
 image:bucket_and_pail.png[width=250] image:cord_and_cable.png[width=280]
 
-== Images with links
+
+== Images Scaled Down
 
 These are local images scaled down to look like thumbnails
 
 image:bucket_and_pail.png[,width=100,link="bucket_and_pail.png"] image:cord_and_cable.png[,width=112,link="cord_and_cable.png"]
+
 
 == Display Images Side by Side
 
@@ -24,6 +35,7 @@ These are remote images aligned in a table
 |image:https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png[Tux penguin]
 |image:https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png[Tux penguin]
 |===
+
 
 == It Worked
 
