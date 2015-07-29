@@ -1,0 +1,23 @@
+= slide-images
+Demo images side by side in reveal.js slide deck
+
+http://tedbergeron.github.io/slide-images/
+
+== Overview
+
+Asciidoctor can render a slide deck from an AsciiDoc with one command.
+
+== How to render the slide deck
+
+Clone this repo.
+
+Run this command in the directory.
+
+ Asciidoctor -T templates/slim index.txt
+
+It will render a file called index.html
+
+If that command doesn't build the reveal.js slide deck, make sure you have all the prerequisites
+
+.Install and use Reveal.js Backend
+http://asciidoctor.org/docs/install-and-use-revealjs-backend/

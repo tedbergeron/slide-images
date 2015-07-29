@@ -27,7 +27,7 @@ These are remote images aligned in a table
 
 == It Worked
 
-Asciidoctor; turn an AsciiDoc text file
+*Asciidoctor*; turn an AsciiDoc text file
 
 into a Reveal.js slide deck 
 
