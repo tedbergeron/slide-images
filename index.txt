@@ -1,0 +1,35 @@
+= Images in Reveal.js
+:revealjs_theme: beige
+:revealjs_progress: true
+:revealjs_slideNumber: true
+
+
+== Local Images
+
+image:bucket_and_pail.png[width=250] image:cord_and_cable.png[width=280]
+
+== Images with links
+
+These are local images scaled down to look like thumbnails
+
+image:bucket_and_pail.png[,width=100,link="bucket_and_pail.png"] image:cord_and_cable.png[,width=112,link="cord_and_cable.png"]
+
+== Display Images Side by Side
+
+These are remote images aligned in a table
+
+[.custom-style]
+[cols="50a,50a"]
+|===
+|image:https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png[Tux penguin]
+|image:https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png[Tux penguin]
+|===
+
+== It Worked
+
+Asciidoctor; turn an AsciiDoc text file
+
+into a Reveal.js slide deck 
+
+with the push of a button.
+
